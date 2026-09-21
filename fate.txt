@@ -1,0 +1,30 @@
+1A|You died in your sleep
+1B|You permanently lose 1 Defense.
+1C|Dark critters enter your bedroom at night and raid your savings. You lose 50g.
+1D|You permanently lose 1 Attack.
+1E|You permanently lose 1 HP.
+2A|You defeated a Cornstalker! The corpse is too mangled to search for loot. You get nothing.
+2B|A strange moon rises… Luck reduced by 20% for 1 day (incurable).
+2C|Your crops are crawling away…
+2D|You are cursed with Chaos (-10% Magic Attack) and Doom (-10% Luck). You are drawn into combat.
+2E|You are cursed with Doom (-10% Luck), Dread (-10% Agility), and Sickness (-10% Attack).
+3A|You have an uneventful night.
+3B|You defeated a Globule! Loot dropped: 1 Bloody Skin and 1 Viscera
+3C|You pray to The Food Court Shrine. You are cursed with Weakness (-10% Defense) and Hex (-10% Magic Defense). You are blessed with Panic (+10% Hit Rate) and Greed (+10% Luck).
+3D|You found a Tiny Coin Pouch! Gain 17g.
+3E|You found a Tiny Coin Pouch! Gain 21g.
+4A|You defeated a Dripper! Loot dropped: 2 Mystery Meat and 1 Cleansing Balm
+4B|You have an uneventful night.
+4C|Your crops have grown one extra time.
+4D|You are blessed with Brutalism (+10% Attack).
+4E|You are blessed with Panic (+10% Hit Rate).
+5A|You defeated a Mimic! Loot dropped: 2 Cleansing Balm and 1 Slime Pizza
+5B|You defeated a Pipe Cleaner! Loot dropped: Flask of the Gods (Attack)
+5C|You defeated a Frog Baby! Loot dropped: 1 Eldritch Tears, 2 Cleansing Balm, and 1 Coldheart Pendant +10
+5D|You are blessed with Zealotry (+10% Magic Attack).
+5E|You found a Coin Pouch! Gain 57g.
+6A|You defeated the Hall Monitor! Loot dropped: Thief’s Ring +2, 1 Brain, 2 Entrails, and 2 Mystery Meat.
+6B|Your sleep is deep and restful. Gain Panic (+10% Hit Rate) and Daring (+10% Agility).
+6C|The glow of the full moon bathes you in a warm light as you sleep. Permanently gain 2 Attack.
+6D|The glow of the full moon bathes you in a warm light as you sleep. Permanently gain 2 Luck.
+6E|You found a Large Coin Pouch! Gain 127g.
