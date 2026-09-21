@@ -12,7 +12,7 @@ The command randomly rolls one of 30 possible outcomes:
 
 Example:
 
-@Username rolled a 3E and met their fate: You found a Tiny Coin Pouch! Gain 21g.
+@Username rolled a 3 and met their fate: You found a Tiny Coin Pouch! Gain 21g.
 
 Made For
 
